@@ -1,0 +1,25 @@
+# Arquivos e diretórios do sistema
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+venv/
+env/
+tutorial-env
+
+# Arquivos de configuração do sistema
+*.pyc
+.DS_Store
+*.db
+
+# Arquivos de log
+*.log
+
+# Arquivos de ambiente
+.env
+
+# Dependências geradas pelo pip
+pip-log.txt
+requirements.txt
